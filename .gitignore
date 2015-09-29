@@ -3,7 +3,6 @@ build.properties
 
 #java specific
 *.class
-.gradle/*
 
 build/
 out/
@@ -19,14 +18,6 @@ target/
 *.iws
 *.ids
 .idea/
-
-# Eclipse project files
-.settings/
-.classpath
-.project
-
-# Ctags stuff
-tags
 
 ## generic files to ignore
 *~
